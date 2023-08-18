@@ -1,6 +1,4 @@
-# TensorFlow Computer Vision Projects
-
-![TensorFlow Logo](tensorflow_logo.png)
+# Computer Vision Projects
 
 Welcome to the TensorFlow Computer Vision Projects repository! This collection of projects is designed to showcase the practical application of deep learning techniques in the realm of computer vision. Each project is implemented using TensorFlow, a leading open-source framework for machine learning.
 
@@ -17,7 +15,6 @@ The primary goals of this repository are to:
 ## Projects
 
 1. [MNIST Dataset (Multiclass Classification)](1.MNIST_Dataset/): Brief description of the project and its objectives.
-2. [Project Name 2](project_folder_2/): Brief description of the project and its objectives.
-3. [Project Name 3](project_folder_3/): Brief description of the project and its objectives.
+2. [FoodVision101 (Multiclass Classification)](2.FoodVision101/): Brief description of the project and its objectives.
 
 Each project folder contains the source code, dataset information (if applicable), and a README with project-specific details.
