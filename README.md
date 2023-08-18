@@ -14,7 +14,7 @@ The primary goals of this repository are to:
 
 ## Projects
 
-1. [MNIST Dataset (Multiclass Classification)](1.MNIST_Dataset/): Brief description of the project and its objectives.
-2. [FoodVision101 (Multiclass Classification)](2.FoodVision101/): Brief description of the project and its objectives.
+1. [MNIST](1.MNIST_Dataset/): A multiclass classification model to distinguish between hand writen digits (1 -> 9).
+2. [FoodVision101](2.FoodVision101/): A multiclass classification model to distinguish between 101 classes of food.
 
 Each project folder contains the source code, dataset information (if applicable), and a README with project-specific details.
