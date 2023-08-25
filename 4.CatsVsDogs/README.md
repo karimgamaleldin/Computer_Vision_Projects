@@ -52,6 +52,11 @@ In this notebook, we conducted several experiments to build and train models on 
 
 In these 6 experiments, we were able to surpass our baseline of 80% validation accuracy, reaching up to ~82%.
 
+### Additional Testing
+
+We further validated the effectiveness of our best model by testing it on a custom image. The model correctly classified the image, providing us with accurate results.
+
+
 ## Future Directions
 
 While we achieved promising results, there are several avenues for further exploration:
