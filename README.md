@@ -17,6 +17,7 @@ The primary goals of this repository are to:
 1. [MNIST](1.MNIST_Dataset/): A multiclass classification model to distinguish between hand writen digits (1 -> 9).
 2. [FoodVision101](2.FoodVision101/): A multiclass classification model to distinguish between 101 classes of food.
 3. [CIFAR10](3.CIFAR10/): A multiclass classification model to distinguish between 10 classes like dogs , airplanes and much more.
+5. [Cats vs Dogs](4.CatsVsDogs/): A multiclass classification model to distinguish between 10 classes like dogs , airplanes and much more.
 
 
 Each project folder contains the source code, dataset information (if applicable), and a README with project-specific details.
