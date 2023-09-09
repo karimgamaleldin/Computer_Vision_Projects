@@ -17,7 +17,8 @@ The primary goals of this repository are to:
 1. [MNIST](1.MNIST_Dataset/): A multiclass classification project to distinguish between hand writen digits (1 -> 9).
 2. [FoodVision101](2.FoodVision101/): A multiclass classification project to distinguish between 101 classes of food.
 3. [CIFAR10](3.CIFAR10/): A multiclass classification project to distinguish between 10 classes like dogs , airplanes and much more.
-5. [Cats vs Dogs](4.CatsVsDogs/): A binary classification project to distinguish cats and dogs.
+4. [Cats vs Dogs](4.CatsVsDogs/): A binary classification project to distinguish cats and dogs.
+5. [Oxford IIT](5.Oxford_IIT_Segmentation_and_Classification/): This project involves image segmentation and binary classification to categorize objects into two classes: 'cats' and 'dogs,' while also determining their precise positions within the images.
 
 
 Each project folder contains the source code, dataset information (if applicable), and a README with project-specific details.
